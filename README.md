@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Artsiom 👋</h1>
+<h1>Artsiom Harminovich</h1>
 
-<p align="center">
+<p">
   Frontend Developer
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=oCMEXo&show_icons=true&theme=default" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCMEXo&layout=compact&theme=default" width="45%" />
 </div>
