@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Artsiom 👋</h1>
 
 <p align="center">
-  Frontend Developer | React Enthusiast | UI/UX Lover
+  Frontend Developer
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-- React / TypeScript / Redux Toolkit  
-- Vite / SCSS / Tailwind  
+- React/Js / TypeScript / Redux Toolkit  
+- Vite / Tailwind  
 - Git / GitHub / Figma  
 
 ---
