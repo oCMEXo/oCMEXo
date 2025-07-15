@@ -1,4 +1,4 @@
-# artsiom Harminovich
+# Artsiom Harminovich
 
 💻 **Frontend-разработчик**  
   
