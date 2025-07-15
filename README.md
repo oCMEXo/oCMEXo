@@ -9,7 +9,7 @@
 ## 🛠️ Technologies and Tools
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS  
-- **Framework**: React  
+- **library**: React  
 - **Styling**: CSS  
 - **Tools**: Git, VS Code  
 
