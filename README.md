@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Artsiom</h1>
+<h3 align="center">Frontend Developer from Belarus</h3>
 
-<!--
-**oCMEXo/oCMEXo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **SDC_React_TheBest**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React, Redux, TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **artsiomharminovich05@gmail.com**
+
+- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/artsiom-harminovich-6a4869328/)
+
+---
+
+### 🛠️ Technologies & Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,git,github,html,css" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oCMEXo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oCMEXo&layout=compact&theme=tokyonight)
