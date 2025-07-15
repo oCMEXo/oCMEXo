@@ -1,8 +1,8 @@
 <h1>Artsiom Harminovich</h1>
 
-<p">
+<h3>
   Frontend Developer
-</p>
+</h3>
 
 ---
 
