@@ -15,12 +15,14 @@
 ## 🛠️ Technologies and Tools
 
 - 📝 **Languages:** JavaScript, TypeScript, HTML, CSS
-- 🗄️ **Databases:** PostgresSQL, MySql, NoSql 
+- 🗄️ **Databases:** PostgresSQL, MySQL, MongoDB
 - ⚛️ **Libraries/Frameworks:** React
 - 🎨 **Styling:** CSS
+- 🧪 **Testing:** Jest, Husky 
 - 🛠️ **Tools:** Git, VS Code
 
 ---
+
 
 ## 📈 GitHub Stats
 
