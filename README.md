@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://github.com/Antodi99/Antodi99/assets/101390091/12222222-3333-4444-5555-666666666666" alt="Hi there!" width="200"/>
-  <h1>Привет, я [Твое Имя]! 👋</h1>
-  <p>Я [Твоя Профессия/Роль], увлеченный созданием инновационных и эффективных решений. Мне нравится превращать идеи в реальность с помощью кода и постоянно изучать новые технологии.</p>
-</div>
+<img src="https://github.com/Antodi99/Antodi99/assets/101390091/12222222-3333-4444-5555-666666666666" alt="Hi there!" width="200"/>
+<h1>Привет, я Artsiom Harminovich! 👋</h1>
+<p>Я [Твоя Профессия/Роль], увлеченный созданием инновационных и эффективных решений. Мне нравится превращать идеи в реальность с помощью кода и постоянно изучать новые технологии.</p>
 
 ---
 
@@ -30,8 +28,8 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
 </div>
 
 **Примечание:** Замени `YOUR_GITHUB_USERNAME` на свое имя пользователя GitHub, чтобы эти виджеты работали.
