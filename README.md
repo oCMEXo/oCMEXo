@@ -1,27 +1,27 @@
 # Artsiom Harminovich
 
-💻 **Frontend-разработчик**  
-  
+💻 **Frontend Developer**  
+
 🔗 [GitHub](https://github.com/oCMEXo)  
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🛠️ Technologies and Tools
 
-- **Языки**: JavaScript, TypeScript, HTML, CSS  
-- **Фреймворк**: React  
-- **Стилизация**: CSS  
-- **Инструменты**: Git, VS Code  
+- **Languages**: JavaScript, TypeScript, HTML, CSS  
+- **Framework**: React  
+- **Styling**: CSS  
+- **Tools**: Git, VS Code  
 
 ---
 
-## 📈 GitHub Статистика
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oCMEXo&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
-## 📬 Связаться со мной
+## 📬 Contact Me
 
 - 📧 [Email](mailto:artsiomharminovich05@gmail.com)  
 - 💬 [LinkedIn](https://www.linkedin.com/in/artsiom-harminovich-6a4869328/) 
