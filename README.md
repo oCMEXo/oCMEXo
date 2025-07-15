@@ -1,7 +1,7 @@
-# 👋 Привет! Я Artsiom (oCMEXo)
+# artsiom Harminovich
 
 💻 **Frontend-разработчик**  
-📍 Работаю удалённо  
+  
 🔗 [GitHub](https://github.com/oCMEXo)  
 
 ---
@@ -10,7 +10,7 @@
 
 - **Языки**: JavaScript, TypeScript, HTML, CSS  
 - **Фреймворк**: React  
-- **Стилизация**: CSS, SCSS  
+- **Стилизация**: CSS  
 - **Инструменты**: Git, VS Code  
 
 ---
@@ -23,5 +23,5 @@
 
 ## 📬 Связаться со мной
 
-- 📧 [Email](mailto:artsio.mexo@example.com) *(если хочешь, добавь свой)*  
-- 💬 [LinkedIn](https://www.linkedin.com/in/artsio-mexo) *(если есть)*
+- 📧 [Email](mailto:artsiomharminovich05@gmail.com)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/artsiom-harminovich-6a4869328/) 
