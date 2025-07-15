@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Artsiom</h1>
-<h3 align="center">Frontend Developer from Belarus</h3>
-
-- 🔭 I’m currently working on **SDC_React_TheBest**
-
-- 🌱 I’m currently learning **React, Redux, TypeScript**
-
-- 📫 How to reach me: **artsiomharminovich05@gmail.com**
-
-- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/artsiom-harminovich-6a4869328/)
+<h1 align="center">Привет 👋, я Артём</h1>
+<h3 align="center">Frontend-разработчик из Беларуси</h3>
 
 ---
 
-### 🛠️ Technologies & Tools:
+### 🚀 Обо мне
+
+-   🔭 Сейчас работаю над **SDC_React_TheBest**
+-   🌱 Изучаю: **React, Redux, TypeScript**
+-   📫 Связаться со мной: **artsiomharminovich05@gmail.com**
+-   📄 Мой опыт: [LinkedIn](https://www.linkedin.com/in/artsiom-harminovich-6a4869328/)
+
+---
+
+### 🛠️ Технологии и Инструменты
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,git,github,html,css" alt="Технологии" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oCMEXo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oCMEXo&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oCMEXo&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oCMEXo&layout=compact&theme=tokyonight&hide_border=true)
